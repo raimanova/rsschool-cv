@@ -1,5 +1,5 @@
 # __Raimanova Iluza__
-![avatar](https://ibb.co/Pz9cwGj)
+![avatar](https://i.ibb.co/KL8DZdw/photo-2022-06-06-23-02-07.jpg)
 ***
 #### Phone:89373091088
 
