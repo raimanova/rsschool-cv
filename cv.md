@@ -16,6 +16,18 @@ I am 25 years old. I work in the civil service. I want to change my activity and
 * Photoshop
 * CSS
 ***
+## __Code Example__
+
+function mul(a, b) {
+
+  return a * b;
+  
+}
+
+let result = mul(2, 6);
+
+alert( result );
+
 ## __Experience__
 Absent
 ***
@@ -25,3 +37,4 @@ Absent
 ***
 ## __English__
 English level B1
+
